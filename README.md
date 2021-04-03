@@ -32,9 +32,9 @@ norimg = fimg_nor(imgpath)
 
 ## 2 融合
 
-imgpath1 = 'xxx.jpg' 图像路径
+imgpath1 = 'xxx.jpg' 预处理后的图像路径
 
-imgpath2 = 'xxx.jpg' 图像路径
+imgpath2 = 'xxx.jpg' 预处理后的图像路径
 
 ### 融合权重(取值范围0.1-0.9)
 
