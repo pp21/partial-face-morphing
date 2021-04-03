@@ -1,5 +1,9 @@
 # partial-face-morphing
 
+# 功能
+
+局部人脸图像融合
+
 # 依赖库
 
 numpy
