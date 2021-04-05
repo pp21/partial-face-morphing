@@ -4,6 +4,10 @@
 
 局部人脸图像融合
 
+L. Qin, F. Peng, S. Venkatesh, R. Ramachandra, M. Long and C. Busch, "Low Visual Distortion and Robust Morphing Attacks Based on Partial Face Image Manipulation," in IEEE Transactions on Biometrics, Behavior, and Identity Science, vol. 3, no. 1, pp. 72-88, Jan. 2021, doi: 10.1109/TBIOM.2020.3022007.
+
+论文 https://ieeexplore.ieee.org/document/9193906
+
 # 依赖库
 
 numpy
@@ -50,6 +54,7 @@ morimg_nose = mor_nose(imgpath1, imgpath2, alpha1, alpha2)
 
 ### 眼睛鼻子融合
 from pfmor_eyes_nose_c import mor_eyes_nose
+
 morimg_eyes_nose = mor_eyes_nose(imgpath1, imgpath2, alpha1, alpha2)
 
 ### 中心脸区域融合
