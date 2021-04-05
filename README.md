@@ -57,7 +57,7 @@ morimg_eyes_nose = mor_eyes_nose(imgpath1, imgpath2, alpha1, alpha2)
 from pfmor_cen import mor_cen
 morimg_cen = mor_cen(imgpath1, imgpath2, alpha1, alpha2)
 ```
-# 参考文献
+# References
 
 [1] https://learnopencv.com/face-morph-using-opencv-cpp-python/
 
